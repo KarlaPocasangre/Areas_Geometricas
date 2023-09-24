@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // Declaracion de variables
+    //Declaracion de variables
     int opcion;
     float areaCuadrado, areaCirculo, areaTriangulo, radio, lado1, lado2, base, altura;
 
