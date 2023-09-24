@@ -31,7 +31,7 @@ int main()
     case (2):
         cout << "\nIngrese el radio del circulo: " << endl;
         cin >> radio;
-        areaCirculo = 3.1416 * pow(radio, 2);
+        areaCirculo = M_PI * pow(radio, 2);
         cout << "\nEl area del circulo es: " << areaCirculo << " cm²" << endl;
         break;
 
